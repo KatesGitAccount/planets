@@ -1,4 +1,6 @@
 
 Mars, home of the martians.
 
-GC: "Ground control to Major Tom..."  
+GC: "Ground control to Major Tom..."
+
+GC: " Commencing countdown engines on"  
